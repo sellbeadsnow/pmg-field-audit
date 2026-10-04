@@ -1,0 +1,43 @@
+[
+  {
+    "locationId": "CAN",
+    "name": "Canton",
+    "stationCount": 37,
+    "offices": [
+      "Canton"
+    ]
+  },
+  {
+    "locationId": "JAS",
+    "name": "Jasper",
+    "stationCount": 49,
+    "offices": [
+      "Jasper - 51",
+      "Jasper - Peds"
+    ]
+  },
+  {
+    "locationId": "ROM",
+    "name": "Rome",
+    "stationCount": 9,
+    "offices": [
+      "Rome"
+    ]
+  },
+  {
+    "locationId": "ROS",
+    "name": "Roswell",
+    "stationCount": 8,
+    "offices": [
+      "Roswell"
+    ]
+  },
+  {
+    "locationId": "WOO",
+    "name": "Woodstock",
+    "stationCount": 26,
+    "offices": [
+      "Woodstock"
+    ]
+  }
+]

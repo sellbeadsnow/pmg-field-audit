@@ -1,0 +1,33 @@
+{
+  "businessLines": [
+    "Admin",
+    "MedSpa",
+    "Pediatrics",
+    "Primary Care"
+  ],
+  "departments": [
+    "Admin",
+    "Call Center",
+    "Front Desk",
+    "HR",
+    "MA",
+    "Marketing",
+    "MedSpa",
+    "Provider",
+    "RCM",
+    "Records"
+  ],
+  "statuses": [
+    "Needs Review",
+    "In Progress",
+    "Verified",
+    "Issue Flagged"
+  ],
+  "deviceTypes": [
+    "Desktop",
+    "Laptop",
+    "Scanner",
+    "Phone",
+    "Printer"
+  ]
+}
